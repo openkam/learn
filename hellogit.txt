@@ -1,1 +1,2 @@
 wtf=what the fuck
+why my diff doesn`t work?
